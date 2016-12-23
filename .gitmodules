@@ -4,3 +4,6 @@
 [submodule "02-partial-additions"]
 	path = 02-partial-additions
 	url = git@github.com:sochotnicky/git-challenges-02-partial-additions.git
+[submodule "03-split-it"]
+	path = 03-split-it
+	url = git@github.com:sochotnicky/git-challenges-03-split-it.git
