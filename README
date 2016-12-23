@@ -1,0 +1,30 @@
+What is this thing?
+===================
+
+This is a self-service git workshop full of tasks and challenges that should
+teach you to work with some of the more interesting git commands useful during
+code reviews and refactoring
+
+All challenges are in numbered sub-directories. Each has a README file
+describing the challenge and there is also a "solution" branch were README
+file contains the steps to complete the challenge. You can see it by running
+"git show solution".
+
+Challenges with higher numbers can occasionally require knowledge of lower-numbered
+challenges, but feel free to explore as you wish
+
+Prerequisites:
+ * Basic knowledge/experience with some git commands
+     * git log
+     * git show
+     * git add 
+     * git commit
+     * git stash
+     * git reset
+     * (maybe a few more)
+ * Thirst for knowledge
+
+Before starting your challenges you have to run:
+    git submodule update --init
+
+Have fun!
