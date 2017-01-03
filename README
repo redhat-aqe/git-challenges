@@ -8,7 +8,7 @@ code reviews and refactoring
 All challenges are in numbered sub-directories. Each has a README file
 describing the challenge and there is also a "solution" branch were README
 file contains the steps to complete the challenge. You can see it by running
-"git show solution".
+"git show origin/solution".
 
 Challenges with higher numbers can occasionally require knowledge of lower-numbered
 challenges, but feel free to explore as you wish
